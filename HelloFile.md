@@ -1,2 +1,2 @@
 Hello there!
-I just updated.
+I just updated
